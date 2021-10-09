@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSelect</string>
+    <string name="title">Title</string>
+    <string name="description">Summary short</string>
+    <string name="no_name">[No name]</string>
+
+</resources>
